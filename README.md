@@ -1,8 +1,8 @@
-# VertexAnimation
+# BoneAnimation
 
-Proprietary format for per-vertex animation of models exported from 3DS Max 5.
+Proprietary format for bone based animation of models exported from 3DS Max 5.
 
-Structure is exported by 3DS Max 5 script xmaPerVertexExport.ms
+Structure is exported by 3DS Max 5 script xmaBoneBasexExporter.ms
 
 ## License
 
@@ -10,6 +10,4 @@ See [LICENSE](LICENSE).
 
 ## Contrib
 
-Thanks humus@rogers.com for his TexturePacker class
-
-Table model by [@endy007]
+M3A1 rifle with hands made by [@endy007]
